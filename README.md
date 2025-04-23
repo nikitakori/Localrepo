@@ -1,3 +1,1 @@
-#This is my new local repo.
-<br>
-#Small Confusion...
+# This is my new local repo.
